@@ -10,7 +10,7 @@ tracemalloc.start()
 page_bg_img = '''
 <style>
 .stApp {
-    background-image: url("https://i.imgur.com/aCy6SYL.jpeg");
+    background-image: url("");
     background-size: cover;
     background-attachment: fixed;
     padding: 0;
